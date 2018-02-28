@@ -14,4 +14,12 @@ check your email.
 
 `yarn` or `npm install`
 
+`cd client`
+
+`yarn`
+
+`yarn build`
+
+`cd ..`
+
 then run the electron app: `electron .`
