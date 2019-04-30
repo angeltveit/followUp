@@ -23,3 +23,6 @@ check your email.
 `cd ..`
 
 then run the electron app: `electron .`
+
+### Screenshot
+![Screenshot](https://github.com/angeltveit/followUp/raw/master/screen.png)
