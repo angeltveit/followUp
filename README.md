@@ -1,7 +1,7 @@
 # FollowUp
 FollowUp is a small tool to help you remember to follow up on small things
 you need to do every day. For instance a customer, a project or just to
-check your email.
+check your email. It floats on top with opacity while not focused.
 
 ### Requirements
 * node v8+
